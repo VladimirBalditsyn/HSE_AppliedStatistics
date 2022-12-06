@@ -5,4 +5,4 @@
 
 Материалы можно найти в папочке с номером соответствующего занятия.
 
-Доску Miro с заметками можно найти по ссылке: https://miro.com/welcomeonboard/eVBDYnB3bDZRa0NkRHJaYm1aTFdzQ2t3ZUdjTVJ3RlRpWVJIQkhmQU5CeW9KSnI0RFUwVEt0aU5qWDQ4SUdxTnwzNDU4NzY0NTQwMzkwODc2OTQyfDI=?share_link_id=716802597419
+Доску Miro с заметками, сделанными во время лекции, можно найти по ссылке: https://miro.com/welcomeonboard/eVBDYnB3bDZRa0NkRHJaYm1aTFdzQ2t3ZUdjTVJ3RlRpWVJIQkhmQU5CeW9KSnI0RFUwVEt0aU5qWDQ4SUdxTnwzNDU4NzY0NTQwMzkwODc2OTQyfDI=?share_link_id=716802597419
