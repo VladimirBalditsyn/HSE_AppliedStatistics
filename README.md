@@ -4,3 +4,5 @@
 В папочке с номером занятия можно найти слайды лекции, ноутбуки с семинара и данные для ноутбуков.
 
 Доску Miro с заметками, сделанными во время лекции, можно найти по ссылке: https://miro.com/welcomeonboard/eVBDYnB3bDZRa0NkRHJaYm1aTFdzQ2t3ZUdjTVJ3RlRpWVJIQkhmQU5CeW9KSnI0RFUwVEt0aU5qWDQ4SUdxTnwzNDU4NzY0NTQwMzkwODc2OTQyfDI=?share_link_id=716802597419
+
+## Ссылка на Classroom c домашними заданиями: https://classroom.google.com/c/NTc4ODg0MzEzNTY4?hl=ru&cjc=gy2yyy4
